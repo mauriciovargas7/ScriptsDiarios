@@ -1,7 +1,7 @@
 O conteúdo apresentado refere-se aos meus artigos e vídeos publicados no LinkedIn e no YouTube.
 Para assistir aos vídeos de execução, acesse os links abaixo.
 
-Os scripts são organizados por células, utilizando Jupyter Notebook (extensão do VS Code), e podem ser executados individualmente de acordo com a demanda da empresa.
+Os scripts em Python são organizados por células, utilizando Jupyter Notebook (extensão do VS Code), e podem ser executados individualmente de acordo com a demanda da empresa.
 
 Também podem ser executados como arquivo .exe, rodando automaticamente no Windows, com pequenas adaptações no código.
 
